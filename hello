@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+console.log("Something \n else");
+console.log('Something \n else');
